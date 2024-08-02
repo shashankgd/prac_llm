@@ -1,0 +1,22 @@
+# Ignore the .env file to keep API keys and other secrets out of version control
+**/.env
+**/.DS_Store
+
+# Ignore the Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Jupyter Notebook configuration
+.jupyter/
+
+# Ignore logs
+*.log
+
+# Ignore any other sensitive or unwanted files

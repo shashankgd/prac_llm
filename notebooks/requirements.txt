@@ -1,0 +1,4 @@
+jupyterlab
+python-dotenv
+openai
+llama_index
